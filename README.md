@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Baizigitov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Привет! 👋 Я Айбулат, начинающий программист.
 
-<!---
-Baizigitov/Baizigitov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**🛠️ Навыки:**  
+- Python
+-  
+-   
+
+**🚀 Мои проекты:**  
+1.  
+2.   
+3.  
+
+**📫 Контакты:**  
+- Telegram: @Abdullakhatovich
+- Email: Aibulat90@gmail.com  
