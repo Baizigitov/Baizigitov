@@ -1,4 +1,3 @@
-<img src="https://via.placeholder.com/800x200.png?text=Code+Explore+Build" width="500">
 ### Привет! 👋 Я Айбулат, начинающий программист.
 
 **🛠️ Навыки:**  
