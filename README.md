@@ -4,6 +4,7 @@
 - Python
 
 **📖 Изучал:**
+- Pygame
 - Flask
 - (Tkinter, SQLite, NumPy, Pandas)
 - Django
