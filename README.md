@@ -3,7 +3,7 @@
 **🛠️ Навыки:**  
 - Python
 
-Изучал:
+**📖 Изучал:**
 - Flask
 - (Tkinter, SQLite, NumPy, Pandas)
 - Django
